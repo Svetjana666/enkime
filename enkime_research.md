@@ -329,3 +329,43 @@ Enkime's network includes related companies and persons, all sharing the address
 - Other: Braunschweig (for Arktik One's history), Sundern (for Crator UG)
 
 All data is from northdata.de snapshots, with URLs to company profiles. The network shows interconnected entities likely under the same umbrella or related through key individuals.
+
+## Full Network Research at Maximum Depth
+
+Using alternative tools (search_web and read_url_content) due to issues with browsermcp on northdata.de (pages may be anti-automation or require interaction), research was conducted on all key people from Enkime and their connections iteratively.
+
+### Findings
+
+- No additional connections beyond those already documented in the "Company Network from northdata.de" section were uncovered.
+- Person profiles on northdata are sparse and do not always exist or are not indexed for all individuals.
+- Company profiles confirm the existing network.
+- The network appears to be centered around the shared address Dresdener Str. 113 B, 10179 Berlin, Germany, with key individuals holding multiple roles in related entities.
+
+### Complete List of Entities in Network
+
+#### Companies:
+- ENKIME GmbH
+- BASE P GmbH
+- ARKTIK ONE GmbH
+- Oliver Delfendahl UG
+- Felix Menn UG
+- Matteo Sidiropoulos UG
+- Crator UG
+- Jubilate UG
+- Black Tuna Holding UG
+- Checkmate Collective GmbH (liquidated)
+
+#### Persons:
+- Oliver Delfendahl
+- Matteo Philipp Sidiropoulos
+- Max Dorn
+- Felix Leo Eduard Michael Menn
+- Vincent Honemann
+- Vincent Kruneš
+- Jean-Luca Röder
+- Gregor Seyffarth
+- Arian Jalali
+- Tina Neumann
+- Daniil Obogrelov
+
+All entities share connections through shared management, addresses, or historical involvement, indicating a tightly knit network around Enkime's operations.
