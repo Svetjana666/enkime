@@ -369,3 +369,76 @@ Using alternative tools (search_web and read_url_content) due to issues with bro
 - Daniil Obogrelov
 
 All entities share connections through shared management, addresses, or historical involvement, indicating a tightly knit network around Enkime's operations.
+
+## Verification via MCP Browsermcp
+
+Data collected using MCP browsermcp by navigating to northdata.com pages and taking snapshots for Enkime GmbH, BASE P GmbH, Crator UG, and Oliver Delfendahl person profile. Network connections confirmed as listed above. No additional entities found at this depth.
+
+## Deep Network Research (5+ Levels)
+
+Research conducted iteratively from Enkime GmbH (level 0) to at least 5 levels deep, collecting people, companies, and addresses from northdata.com snapshots.
+
+### Level 0
+- **Company:** ENKIME GmbH
+  - **Address:** Dresdener Str. 113 B, 10179 Berlin, Germany
+  - **Roles:** Social First Agency, Creative Agency, Creator Management, Content Production, Music Label
+  - **Managing Directors:** Oliver Delfendahl, Matteo Philipp Sidiropoulos, Max Dorn
+
+### Level 1
+- **Companies:**
+  - BASE P GmbH (Berlin)
+  - ARKTIK ONE GmbH (Berlin)
+- **Persons:**
+  - Oliver Delfendahl (Berlin)
+  - Matteo Philipp Sidiropoulos (Berlin)
+  - Max Dorn (Berlin)
+  - Vincent Honemann (Berlin)
+  - Felix Leo Eduard Michael Menn (Berlin)
+  - Jean-Luca Röder (Sundern)
+  - Vincent Kruneš (Braunschweig)
+
+### Level 2
+- **Companies:**
+  - Oliver Delfendahl UG (Berlin)
+  - Felix Menn UG (Berlin)
+  - Matteo Sidiropoulos UG (Berlin)
+  - Crator UG (Sundern)
+- **Persons:** (same as level 1, interconnected)
+
+### Level 3
+- **Companies:**
+  - Checkmate Collective GmbH (liq) (Braunschweig)
+  - Jubilate UG (Berlin)
+  - Black Tuna Holding UG (Berlin)
+  - Stockfield Wolfsburg GmbH & Co. KG (liq) (Wolfsburg)
+  - Gesellschaft für Medienverwaltung mbH (Braunschweig)
+- **Persons:**
+  - Gregor Alexander Seyffarth (Berlin)
+  - Tunay K. B. Fitzner (Berlin)
+  - Grergor Seyffarth (Braunschweig)
+  - Simon Graf (Berlin)
+
+### Level 4
+- **Companies:**
+  - F&W Group GmbH (Berlin)
+  - Türrschmidt 3 GmbH (Berlin)
+  - Ano Management GmbH (Berlin)
+  - Ano Management Holding UG (Berlin)
+  - CaBo Holding UG (Berlin)
+  - RoFi Management UG (Berlin)
+- **Persons:** (same as level 3)
+
+### Level 5
+- **Companies:**
+  - White TuNa Event Management UG (liq) (Berlin)
+- **Persons:**
+  - Anton Hubert Kurt Wilke (Berlin)
+
+### Addresses Collected
+- Dresdener Str. 113 B, 10179 Berlin, Germany
+- Fasanenstr. 15, 10623 Berlin, Germany
+- Kardinal-von-Galen-Str. 35, 59846 Sundern, Germany
+- Bindestr. 1 a, 38116 Braunschweig, Germany
+- Various addresses in Braunschweig and Wolfsburg for other entities.
+
+All data sourced from public northdata.com pages, evidence-based with URLs provided in snapshots.
